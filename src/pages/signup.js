@@ -84,7 +84,7 @@ export default function Signup() {
         )}
 
         <p style={styles.footerText}>
-          Already have an account? <a href="/login" style={styles.link}>Login here</a>
+          Already have an account? <Link href="/login" style={styles.link}>Login here</Link>
         </p>
       </div>
     </div>
